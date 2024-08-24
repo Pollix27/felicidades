@@ -22,7 +22,7 @@ body {
 
 #lyrics {
   font-size: 28px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Zapfito, sans-serif;
   color: white;
   position: absolute;
   margin-bottom: 20%;
@@ -39,7 +39,7 @@ body {
   }
 
 }
-.titulo {
+.titulo { /*Felicidades*/
   margin-bottom: 180px;
   font-family: "Charter", Arial, sans-serif;
   color: red;
