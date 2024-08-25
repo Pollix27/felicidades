@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,900&display=swap');
 *{
-    font-family: 'Poppins',cursive;
+    font-family: 'Qwitcher Grypen',cursive;
 }
 body{
     color: azure;
@@ -22,7 +22,7 @@ body{
 }
 
 .botones a{
-    background-color: #0a2be9;
+    background-color: #900ae9;
     padding: 9px;
     border-radius: 80px;
     -webkit-border-radius: 80px;
@@ -67,6 +67,21 @@ body{
 }
 .greetings > span:nth-child(6){
     animation-delay: 1s;
+}
+.greetings > span:nth-child(7){
+    animation-delay: 1.2s ;
+}
+.greetings > span:nth-child(8){
+    animation-delay: 1.4s ;
+}
+.greetings > span:nth-child(9){
+    animation-delay: 1.6s ;
+}
+.greetings > span:nth-child(10){
+    animation-delay: 1.8s ;
+}
+.greetings > span:nth-child(11){
+    animation-delay: 2s ;
 }
 
 .description{
